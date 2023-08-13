@@ -2,7 +2,7 @@
 TinyTx firmware by Nathan Chantrell, modified to work with the OpenEnergyMonitor RFM69_LPL radio library.
 
 # Background
-In 2015 when I started working with the OpenEnergyMonitor (OEM) ecosystem, Nathan Chantrell's TinyTx helped me get started creating my own sensors. I did not know him, but I know I am not alone in appreciating his contribution to the OEM community. It is my understanding that Nathan died in 2020. This repository is designed to bring his original firmware sketches for ATtiny84-based TinyTx boards up to date with the recent change in the OEM stack to use the RFM69 radio library from Felix Rusu at LowPowerLab. 
+In 2015 when I started working with the OpenEnergyMonitor (OEM) ecosystem, Nathan Chantrell's TinyTx helped me get started creating my own sensors. I did not know him, but I know I am not alone in appreciating his contribution to the OEM community. It is my understanding that Nathan died in 2020. This repository is designed to honor his contributions, and bring his original firmware sketches for ATtiny84-based TinyTx boards up to date with the recent change in the OEM stack to use the RFM69 radio library from Felix Rusu at LowPowerLab. 
 
 Another repository takes a slightly different approach to continuing Nathan's work: https://github.com/amadeuspzs/TinyTX. If you are interested in using the RFM69HW radios this would be a good place to go. If you are want to stay compatible with the OpenEnergyMonitor stack, which uses RFM12B/RFM69CW radios, this repository is intended for that purpose.
 

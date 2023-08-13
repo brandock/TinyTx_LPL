@@ -26,3 +26,5 @@ The RFM69CW is a newer radio that is pin-compatible with the RFM12B footprint us
 
 # Original Sketches and Modified Sketches
 The original sketches will be posted with _Nathan_Chantrell_Original appended. The modified sketches will be posted with _LPL tacked on. The goal of the updates is to be minimally invasive and leave as much of the original sketch as possible unchanged.
+
+![TinyTX3_Front_Back_s](https://github.com/brandock/TinyTx_LPL/assets/17953028/662c0414-b3f3-4194-8896-3826b442ee06)

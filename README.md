@@ -19,7 +19,7 @@ Trystan Lea and the OpenEnergyMonitor community created a cut-down version of th
 https://github.com/openenergymonitor/RFM69_LPL
 
 # Using Spence Konde ATTinyCore for Arduino IDE
-OpenEnergyMonitor uses Spence Konde's cores to compile RFM69_LPL firmware. DxCore is used for AVR-DB. ATTinyCore is used for ATtiny84. This is an excellent, modern board manager for ATtiny84. It is a major improvement over the arduino-tiny core that was typical when TinyTx was created.
+OpenEnergyMonitor uses Spence Konde's cores to compile RFM69_LPL firmware. DxCore is used for AVR-DB. ATTinyCore is used for ATtiny84. ATTinyCore is an excellent, modern board manager for ATtiny84. It is a major improvement over the arduino-tiny core that was typical when TinyTx was created.
 
 # Using RFM69CW Radios
 The RFM69CW is a newer radio that is pin-compatible with the RFM12B footprint used by TinyTx and all OpenEnergyMonitor hardware. This radio was already more common than the RFM12B when I started working with TinyTx in 2015. I think I might have had one actual RFM12B at some point, but I am not sure. In any case, the RFM69CW radio is the one I have used for testing the firmware.
